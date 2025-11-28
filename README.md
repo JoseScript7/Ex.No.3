@@ -7,7 +7,7 @@
 To write prompts for four prompting techniques—Straightforward Prompts, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting—and evaluate them using a Unit 5 use case.
 
 ## Download Full Report (PDF)
-
+https://github.com/JoseScript7/Ex.No.3/blob/main/Report%20(1).pdf
 
 ## Explanation
 Selected Use Case (Unit 5): **Technical Troubleshooting in Customer Support**  
